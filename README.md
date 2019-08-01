@@ -26,7 +26,7 @@ which have been uploaded to Heirloom. This can be coupled with the AWS CLI to up
 the app or chef_repo.
 
 For example, to update the app and chef_repo of a stack, and then kick off a command,
-similiar to the Simple Deploy deploy subcommand, you could use the following bash script.
+similar to the Simple Deploy deploy subcommand, you could use the following bash script.
 
 ```
 #!/bin/bash
